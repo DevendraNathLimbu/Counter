@@ -9,8 +9,8 @@ body{
     align-items: center;
     justify-content: center;
 }
-.box{
-    height: 30px;
-    width: 150px;
-    box-shadow: 2px 3px 4px rgba(0,0,0,0.25);
+.container{
+    min-height: 200px;
+    width: 100%;
+    border: 2px dashed #111;
 }
